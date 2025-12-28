@@ -10,9 +10,9 @@
 
 This tool is specifically designed for the **SS Series** on PlayStation Vita:
 
-- **VLJM-35379** - [Game Title 1]
-- **VLJM-35390** - [Game Title 2]  
-- **VLJM-35391** - [Game Title 3]
+- **VLJM-35379** 
+- **VLJM-35390** 
+- **VLJM-35391** 
 
 *Note: May work with other similar SS engine Vita games*
 
