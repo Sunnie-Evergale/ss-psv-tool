@@ -61,7 +61,7 @@ See [`docs/STASKY_PSV_DOCUMENTATION.md`](docs/STASKY_PSV_DOCUMENTATION.md) for c
 
 If you found this project helpful, consider supporting my work:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_1.svg)](https://ko-fi.com/sunnieevergale)
+[![ko-fi](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpoa2NnaHdhNDl2ajNneXFkemxzbzhxdm1nYXZiYTNsazlxeHJkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DzBUMIyTeHDuigQOoh/giphy.gif)](https://ko-fi.com/sunnieevergale)
 
 ## Credits
 
